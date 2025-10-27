@@ -1,4 +1,4 @@
-#include "Templates.hpp"
+#include "templates.hpp"
 
 int main( void ) {
     std::cout << "\nTest with int " << std::string(20, '=') << std::endl;
