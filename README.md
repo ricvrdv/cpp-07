@@ -12,6 +12,6 @@ This module introduces C++ templates — one of the language’s most powerful f
 - Exception handling and const correctness
 
 ----
-✅ Check out [C++ Module 08]()
+✅ Check out [C++ Module 08](https://github.com/ricvrdv/cpp-06) - templated containers, iterators, algorithms
 
 ⏪️ Go back to [C++ Module 06](https://github.com/ricvrdv/cpp-06) - type conversions
